@@ -1,0 +1,46 @@
+.md{
+    border: 1px solid black;
+    height: 95vh;
+    width:98vw ;
+    background-image: linear-gradient(darkblue,whitesmoke,darkblue);
+}
+.cd{
+    border: 0px solid black;
+    height: 55vh;
+    width: 80vw;
+    background-color: white;
+    margin: 100px;
+    margin-top: -10px;
+}
+.cd1{
+    color: white;
+    margin-left:780px;
+    /* margin-top: 80px; */
+}
+.cd2{
+    color: white;
+    margin-left:935px;
+    margin-top: -41px;
+}
+.cd3{
+    color: white;
+    margin-left:1045px;
+    margin-top: -41px;
+}
+.cd4{
+    margin-left: 20px;
+    border-left: 4px solid green;
+    background-color: lightgrey;
+}
+table{ 
+    border: 1px solid black;
+    width: 900px;
+    height: 150px;
+    margin-left: 20px;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
